@@ -1,15 +1,11 @@
 - 👋 Hi, I’m @MohamedSaid91
 - 
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data Science.
 - 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Operations & Supply Chain Management at University of Toronto.
 - 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science projects in Supply Chain, Financial Services, or Telecom services.
 - 
-- 📫 How to reach me ...
+- 📫 How to reach me: Drop me a private message.
 - 
-- ⚡ Fun fact: ...
-
-<!---
-WORKING ON IT. WIP.
---->
+- ⚡ Fun fact: I love Soccer and video games (FPS)
