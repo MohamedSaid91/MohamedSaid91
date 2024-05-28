@@ -6,6 +6,4 @@
 - 
 - 💞️ I’m looking to collaborate on Data Science projects in Supply Chain, Financial Services, or Telecom services.
 - 
-- 📫 How to reach me: Drop me a private message.
-- 
 - ⚡ Fun fact: I love Soccer and video games (FPS)
